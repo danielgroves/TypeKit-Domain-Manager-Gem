@@ -1,4 +1,4 @@
-# TypeKit Domain Manager
+# TypeKit Domain Manager [![Gem Version](https://badge.fury.io/rb/typekit_domain_manager.svg)](https://badge.fury.io/rb/typekit_domain_manager)
 
 Provides an easy interface to dynamically manage TypeKit domain whitelists.
 
@@ -41,7 +41,7 @@ domain_manager.get_domains
 
 That's all there is to it. If you hit any snags, please do open an issue or submit a pull request.
 
-Head over to the [TypeKit site for an API key](https://typekit.com/account/tokens), and visit the 'Settings' screen for a kit to get its ID. 
+Head over to the [TypeKit site for an API key](https://typekit.com/account/tokens), and visit the 'Settings' screen for a kit to get its ID.
 
 ## Development
 
