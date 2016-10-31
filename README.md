@@ -43,6 +43,10 @@ That's all there is to it. If you hit any snags, please do open an issue or subm
 
 Head over to the [TypeKit site for an API key](https://typekit.com/account/tokens), and visit the 'Settings' screen for a kit to get its ID.
 
+## Known Issues
+
+* Changes take significant time to propagate when _Optimize Performance_ is checked under TypeKit Kit Settings. 
+
 ## Development
 
 After checking out the repo, run `bin/setup` to install dependencies. You can also run `bin/console` for an interactive prompt that will allow you to experiment.
@@ -52,7 +56,6 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 ## Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/danielgroves/typekit_domain_manager. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
-
 
 ## License
 
